@@ -10,3 +10,5 @@ server.port = 8083
 </dependency>
 
 - get from https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-jasper/9.0.41
+
+run server: http://localhost:8083/courses
